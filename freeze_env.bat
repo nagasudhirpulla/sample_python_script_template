@@ -1,2 +1,2 @@
-call project_env\Scripts\activate.bat
+call .\activate_env.bat
 call python -m pip freeze > requirements.txt
