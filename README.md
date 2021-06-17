@@ -9,8 +9,8 @@
 * create_env.bat
 * install_env.bat
 
-# Steps for updating the environment packages in requirements.txt
+## Steps for updating the environment packages in requirements.txt
 * freeze_env.bat
 
-# Steps to run the code after virtual environment setup
+## Steps to run the code after virtual environment setup
 * run.bat
